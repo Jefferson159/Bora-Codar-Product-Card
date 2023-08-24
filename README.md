@@ -1,4 +1,4 @@
-<h1 align="center">Bora Codar Player de Música  </h1>
+<h1 align="center">Bora Codar Product Card  </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -22,10 +22,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Git e Github
+- Figma
 
 ## 💻 Projeto
 
-Criação de Player de Música
+Criação Product Card
 
 ## :memo: Licença
 
